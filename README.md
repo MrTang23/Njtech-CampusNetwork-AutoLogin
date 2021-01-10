@@ -29,3 +29,5 @@
 ```
 
 其中username(学号), password(密码)为必填参数，type为必填参数只能是njtech或njtech-home，provider(运营商), 可填项cmcc, telecom, 默认为cmcc.
+
+## 代码如有bug请提交issue或联系QQ1491775988
